@@ -57,7 +57,6 @@
 * 쿠키
 * 우유
 * 케이크
-* 도시락
 
 간식마다 가격, 포만도, 행복도 증가량이 다르게 설정되어 있습니다.
 
@@ -122,12 +121,12 @@
 
 <tr>
 <td><img src="https://github.com/tomatomatomatomatomatomato/flutter-project/blob/main/OddyRoom_5.png" width="250"/></td>
-<td><img src="https://github.com/tomatomatomatomatomatomato/flutter-project/blob/main/Oddyroom_6.png" width="250"/></td>
+<td><img src="https://github.com/tomatomatomatomatomatomato/flutter-project/blob/main/OddyRoom_6.png" width="250"/></td>
 </tr>
 
 <tr>
 <td><img src="https://github.com/tomatomatomatomatomatomato/flutter-project/blob/main/OddyRoom_7.png" width="250"/></td>
-<td><img src="https://github.com/tomatomatomatomatomatomato/flutter-project/blob/main/Oddyroom_8.png" width="250"/></td>
+<td><img src="https://github.com/tomatomatomatomatomatomato/flutter-project/blob/main/OddyRoom_8.png" width="250"/></td>
 </tr>
 </table>
 
